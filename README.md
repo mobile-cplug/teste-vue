@@ -14,9 +14,9 @@ Desenvolver uma **Progressive Web App (PWA)** utilizando Vue.js para um sistema 
 
 ## 🛠️ Tecnologias Requeridas
 
-- **Vue.js 3** (Composition API)
-- **Vue Router 4**
-- **Vuex 4** ou **Pinia** (para gerenciamento de estado)
+- **Vue.js** (Composition API)
+- **Vue Router**
+- **Vuex**  (para gerenciamento de estado)
 - **Vite** (como bundler)
 - **PWA Plugin** (para funcionalidades PWA)
 - **CSS/SCSS** (para estilização)
@@ -89,13 +89,6 @@ Desenvolver uma **Progressive Web App (PWA)** utilizando Vue.js para um sistema 
   status: 'completed'
 }
 ```
-
-### PWA Features
-- Manifest.json configurado
-- Service Worker para cache offline
-- Ícones em diferentes tamanhos
-- Splash screen
-- Instalável como app
 
 ## 📁 Estrutura de Arquivos Sugerida
 
